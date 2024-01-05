@@ -37,10 +37,6 @@ Please add your resources under the appropriate category with the following form
 - **Utility APIs**
 - **Other Tools**
 
-## Code of Conduct
-
-Please note that this project is released with a [Contributor Code of Conduct](CODE_OF_CONDUCT.md). By participating in this project, you agree to abide by its terms.
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE) - see the LICENSE file for details.
