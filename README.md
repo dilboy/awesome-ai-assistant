@@ -35,6 +35,7 @@ Please add your resources under the appropriate category with the following form
 - **Machine Learning**
 - **Data Analysis**
 - **Utility APIs**
+- **Cloud APIs**
 - **Other Tools**
 
 ## License
