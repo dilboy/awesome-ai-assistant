@@ -1,7 +1,3 @@
-当然可以。以下是一个适用于 GitHub 项目的 README 范文，主题是 AI Assistant 资源收集仓库：
-
----
-
 # AI Assistant Resource Collection
 
 Welcome to the AI Assistant Resource Collection repository! This repository is dedicated to gathering and sharing a wide range of publicly available APIs and tools for building and enhancing AI assistants. Our goal is to create a comprehensive resource that developers can use to find and implement various functionalities in their AI assistant projects.
